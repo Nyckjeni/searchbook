@@ -1,0 +1,30 @@
+{
+    "name": "SearchBook",
+    "short_name": "SearchBook",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "darkmagenta",
+    "screenshots": [
+      {
+        "src": "url-da-sua-captura-de-tela",
+        "sizes": "800x600",
+        "type": "image/png",
+        "form_factor": "wide"
+      }
+    ],
+  
+    "icons": [
+        {
+            "src": "img/192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "img/512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
+
